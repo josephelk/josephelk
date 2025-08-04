@@ -33,7 +33,7 @@ I have a strong interest in data analysis, machine learning, and continuously ex
 ![Figma](https://img.shields.io/badge/-Figma-red)
 
 ## 📞 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/joseph-elkos-20362927a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/joseph-elkos-20362927a)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/joseph.elkos)
 
 ---

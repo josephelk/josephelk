@@ -5,7 +5,8 @@ I have a strong interest in data analysis, machine learning, and continuously ex
 
 ## 📌 A brief about me
 - 🎓 Undergraduate Student at BINUS University
-- 💻 Focus: Data Analysis, Machine Learning, Data Visualization
+- 💻 Focus: Data Analysis, Machine Learning, Data Visualization, Model Deployment
+- 🧠 Favorite Programming Language : Python, SQL, R
 - 📚 Always learning new tools and techniques in data science
 
 ## 🖥️ Programming Languages I use
@@ -31,6 +32,11 @@ I have a strong interest in data analysis, machine learning, and continuously ex
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green)
 ![GitHub](https://img.shields.io/badge/-GitHub-black)
 ![Figma](https://img.shields.io/badge/-Figma-red)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-orange)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B)
 
 ## 📞 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/joseph-elkos-20362927a)
